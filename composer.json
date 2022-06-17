@@ -1,0 +1,17 @@
+{
+    "name": "markuspaks/php-xml-tools",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "XmlTools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Markus Paks",
+            "email": "markus@trulla.ee"
+        }
+    ],
+    "require": {}
+}
