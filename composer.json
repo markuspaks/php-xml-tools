@@ -13,5 +13,7 @@
             "email": "markus@trulla.ee"
         }
     ],
-    "require": {}
+    "require": {
+        "ext-dom": "*"
+    }
 }
